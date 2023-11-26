@@ -64,7 +64,8 @@ background: linear-gradient(to right, #ffcc00, #ff3300);
 
 #### Contribution
 
-Les contributions sont les bienvenues! Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes suivantes :
+Les contributions sont les bienvenues!
+Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes suivantes :
 
 * Fork du projet
 * Créez une nouvelle branche (git checkout -b feature/ajout-fonctionnalite)
