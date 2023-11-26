@@ -2,6 +2,8 @@
 
 ## Auteur
 
+![Capture d'écran 1](img/thierrylaval.dev.jpg)
+
 👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
 
 * Github: [@Thierry Laval](https://github.com/thierry-laval)
@@ -18,7 +20,7 @@ _`Début du projet le 27/11/2023`_
 
 ## Générateur de dégradé
 
-![Gradient Generator](link/to/your/image.png)
+![Gradient Generator](img/generateur.jpg)
 
 ## Description
 
@@ -31,10 +33,6 @@ Le Générateur de dégradé est un outil simple qui vous permet de créer des d
 * Ajustement facile des paramètres de dégradé
 * Génération instantanée du code CSS
 * Prévisualisation en temps réel du dégradé
-
-## Captures d'écran
-
-![Capture d'écran 1](link/to/screenshot1.png)
 
 ## Utilisation
 
@@ -57,7 +55,7 @@ background: linear-gradient(to right, #ffcc00, #ff3300);
 | Langages        | et Applications    |
 | :-------------: |:-------------:     |
 | HTML5           | Visual Studio Code |
-| CSS3            |        JS          |
+| CSS3            | JavaScript         |
 | Git/GitHub      |                    |
 
 ***
