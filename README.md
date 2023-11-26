@@ -10,20 +10,40 @@
 
 ***
 
-### 📎 Projet 35 - Création d'une Animation de dégradé d'arrière-plan en html/css
+### 📎 Projet 36 - Création d'une Animation de dégradé d'arrière-plan en html/css
 
-_`Début du projet le 26/11/2023`_
+_`Début du projet le 27/11/2023`_
 
 ***
 
+## Générateur de dégradé
+
+![Gradient Generator](link/to/your/image.png)
+
+## Description
+
+Le Générateur de dégradé est un outil simple qui vous permet de créer des dégradés personnalisés pour une utilisation dans vos projets de conception graphique. Choisissez facilement vos couleurs de début et de fin, ajustez les paramètres, et copiez le code CSS généré pour intégrer le dégradé dans votre application.
+
+## Fonctionnalités
+
+* Interface utilisateur conviviale
+* Personnalisation des couleurs de début et de fin
+* Ajustement facile des paramètres de dégradé
+* Génération instantanée du code CSS
+* Prévisualisation en temps réel du dégradé
+
+## Captures d'écran
+
+![Capture d'écran 1](link/to/screenshot1.png)
+
 Créez une expérience utilisateur captivante en utilisant les compétences avancées de CSS pour développer un arrière plan interactif. Explorez les différentes techniques d'animation CSS pour rendre le fond dynamique et engageant.
 
-#### 📦  &nbsp; Utilisé dans ce projet
+### 📦 &nbsp; Utilisé dans ce projet
 
 | Langages        | et Applications    |
 | :-------------: |:-------------:     |
 | HTML5           | Visual Studio Code |
-| CSS3            |                    |
+| CSS3            |        JS          |
 | Git/GitHub      |                    |
 
 ***
