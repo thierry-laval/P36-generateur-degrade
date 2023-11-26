@@ -10,7 +10,7 @@
 
 ***
 
-### 📎 Projet 36 - Création d'une Animation de dégradé d'arrière-plan en html/css
+### 📎 Projet 36 - Création d'un Générateur de Dégradés en CSS
 
 _`Début du projet le 27/11/2023`_
 
@@ -36,7 +36,21 @@ Le Générateur de dégradé est un outil simple qui vous permet de créer des d
 
 ![Capture d'écran 1](link/to/screenshot1.png)
 
-Créez une expérience utilisateur captivante en utilisant les compétences avancées de CSS pour développer un arrière plan interactif. Explorez les différentes techniques d'animation CSS pour rendre le fond dynamique et engageant.
+## Utilisation
+
+* Ouvrez le fichier index.html dans votre navigateur.
+* Utilisez l'interface pour sélectionner les couleurs et ajuster les paramètres.
+* Copiez le code CSS généré.
+* Intégrez le code dans votre projet.
+
+## Exemple de Code CSS
+
+```css
+/* Exemple de code CSS généré par le Gradient Generator */
+.element {
+background: linear-gradient(to right, #ffcc00, #ff3300);
+}
+```
 
 ### 📦 &nbsp; Utilisé dans ce projet
 
@@ -47,6 +61,16 @@ Créez une expérience utilisateur captivante en utilisant les compétences avan
 | Git/GitHub      |                    |
 
 ***
+
+#### Contribution
+
+Les contributions sont les bienvenues! Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes suivantes :
+
+* Fork du projet
+* Créez une nouvelle branche (git checkout -b feature/ajout-fonctionnalite)
+* Commit de vos modifications (git commit -am 'Ajout d'une nouvelle fonctionnalité')
+* Push vers la branche (git push origin feature/ajout-fonctionnalite)
+* Ouvrez une Pull Request
 
 #### 📝 &nbsp; License
 
